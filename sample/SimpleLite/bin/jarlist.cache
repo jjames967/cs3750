@@ -1,6 +1,6 @@
 # cache for current jar dependecy. DO NOT EDIT.
 # format is <lastModified> <length> <SHA-1> <path>
 # Encoding is UTF-8
-1363151763323 393154 307c1cc532eabbf1d135b43e5c983c9da700449d C:\Development\NyARToolkitForAndroid-Android2.2-4.1.1\NyARToolKit for Android -Utils\libs\android-support-v4.jar
-1363151745061 393154 307c1cc532eabbf1d135b43e5c983c9da700449d C:\Development\NyARToolkitForAndroid-Android2.2-4.1.1\NyARToolKit for Android\libs\android-support-v4.jar
-1363151701140 393154 307c1cc532eabbf1d135b43e5c983c9da700449d C:\Development\NyARToolkitForAndroid-Android2.2-4.1.1\sample\SimpleLite\libs\android-support-v4.jar
+1363153385441 393154 307c1cc532eabbf1d135b43e5c983c9da700449d C:\Development\cs3750\sample\SimpleLite\libs\android-support-v4.jar
+1363153391628 393154 307c1cc532eabbf1d135b43e5c983c9da700449d C:\Development\cs3750\NyARToolKit for Android -Utils\libs\android-support-v4.jar
+1363153393326 393154 307c1cc532eabbf1d135b43e5c983c9da700449d C:\Development\cs3750\NyARToolKit for Android\libs\android-support-v4.jar
